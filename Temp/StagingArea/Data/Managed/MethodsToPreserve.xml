@@ -1,0 +1,15 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="MainMenuScript">
+			<method name="PlayButton"/>
+		</type>
+		<type fullname="MainScript">
+			<method name="Selection"/>
+			<method name="Selection"/>
+		</type>
+		<type fullname="SelectionScript">
+			<method name="Scene1"/>
+			<method name="Scene2"/>
+		</type>
+	</assembly>
+</linker>
